@@ -1,6 +1,6 @@
 ---
 layout: page
-title: styleguide
+title: Multimedia
 permalink: /styleguide/
 image: 11.jpg
 ---
