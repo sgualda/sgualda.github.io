@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Multimedia
-permalink: /multimedia/
+title: styleguide
+permalink: /styleguide/
 image: 11.jpg
 ---
 
