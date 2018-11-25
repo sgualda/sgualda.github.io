@@ -15,12 +15,12 @@
   align-items: center;
   .logo-title {
     .logo-text {
-      font-size: 16px;
+      font-size: 18px;
       font-weight: 700;
       line-height: 16px;
       text-transform: uppercase;
-      letter-spacing: 5px;
-      color: #ffff00;
+      letter-spacing: 7px;
+      color: #00d8d8;
       &:hover {
         color: #fff;
       }
@@ -63,7 +63,7 @@
     font-size: 30px;
     font-weight: 700;
     line-height: 60px;
-    color: #ffff00;
+    color: #fff;
     &:before {
       content: '';
       position: absolute;
@@ -117,7 +117,7 @@
 .nav-buttons i.ion {
   transition: color $global-transition;
   &:hover {
-    color: #fff;
+    color: #ffff00;
   }
 }
 
