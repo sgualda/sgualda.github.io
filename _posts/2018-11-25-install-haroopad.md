@@ -2,7 +2,7 @@
 layout: post
 title:  Haroopad
 date:   2018-11-25 16:03:30 +0300
-image:  markdown.jpg
+image:  img/markdown.jpg
 tags:   Haroopad, Markdown
 ---
 
