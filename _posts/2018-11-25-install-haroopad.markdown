@@ -3,7 +3,7 @@ layout: post
 title:  Haroopad
 date:   2018-11-25 16:03:30 +0300
 image:  01.jpg
-tags:   Haroopad Markdown
+tags:   Markdown
 ---
 
 ### Instalar Haroopad - Editor Markdown
