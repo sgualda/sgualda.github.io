@@ -46,9 +46,16 @@
 
       {% if site.telegram %}
       <li class="social-profiles-item">
-        <a href="{{ site.telegram }}" class="social-profiles-link"><i class="ion ion-paper-plane"></i></a>
+        <a href="{{ site.telegram }}" class="social-profiles-link"><i class="ion ion-send"></i></a>
       </li>
       {% else %} {% endif %}
+      
+      {% if site.email %}
+      <li class="social-profiles-item">
+        <a href="{{ site.email }}" class="social-profiles-link"><i class="ion ion-mail"></i></a>
+      </li>
+      {% else %} {% endif %}
+      
     </ul>
   </div>
 
