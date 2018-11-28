@@ -2,9 +2,9 @@
 layout: page
 title: Multimedia
 permalink: /styleguide/
-image: 11.jpg
+image: fondo-multimedia.jpg
 ---
 
 ### Videos
 
-<iframe src="https://www.youtube.com/watch?v=EiKK04Ht8QI&feature=youtu.be" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EiKK04Ht8QI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
