@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Multimedia
-permalink: /styleguide/
+permalink: /multimedia/
 image: fondo-multimedia.jpg
 ---
 
