@@ -2,7 +2,7 @@
 layout: page
 title: Multimedia
 permalink: /multimedia/
-image: fondo-multimedia.jpg
+image:
 ---
 
 ### Videos
