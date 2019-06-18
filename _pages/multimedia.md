@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Multimedia
-permalink: /multimedia/
+title: Contáctame
+permalink: /contactame/
 image: fondo-multimedia.jpg
 ---
 
