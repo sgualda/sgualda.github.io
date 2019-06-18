@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Contáctame
-permalink: /contactame/
-image: fondo-multimedia.jpg
+title: Multimedia
+permalink: /multimedia/
+image: 02.jpg
 ---
 
 ### Videos
