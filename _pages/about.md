@@ -12,3 +12,5 @@ Despues de terminar mis estudios como desarrollador web, decidí adentrarme en u
 En el ámbito profesional me dedico a ayudar en la mejora del UX con un entorno o dispositivo concreto, cuyo resultado final es la generación de una percepción positiva de dicho producto. También, siento cierta curiosidad por el diseño y la fotografia, entre otras tantas cosas. Tengo por ello una gran capacidad analítica, creativa y de desarrollo que me permiten cumplir con mis tareas dentro de un equipo y también individualmente.
 
 Me describo como una persona responsable y ambiciosa. Me encanta aprender de los demás siendo también autodidacta en aquello que me gusta y /o resulta interesante. Con ganas de aprender en cada instante busco mejorar lo que ya existe. Soy una persona activa e inquieta, por lo que me encuentro en búsqueda de nuevas oportunidades donde poder desarrollar mis distintas habilidades y poner en práctica los conocimientos que he ido adquiriendo.
+
+<input type="submit" value="Submit">
