@@ -5,7 +5,7 @@ image: 010.jpg
 permalink: /about/
 ---
 
-Nací en tierras almerienses allá por el año 95, y ya desde muy pequeño me interesé por la tecnología. Por ello decidí dar un paso más adelante y adentrarme en ese mundo de lleno estudiando así el Grado Superior de Desarrollo de Aplicaciones Web, en Almería. También cursé un Bootcamp de Desarrollo Web en Madrid, impartido por la Escuela de Organización Industrial, donde aprendí distintos lenguajes del front-end.
+Nací en tierras almerienses allá por el año 95, y ya desde muy pequeño me interesé por la tecnología y el arte. Por ello decidí dar un paso más adelante y adentrarme en ese mundo estudiando así el Grado Superior de Desarrollo de Aplicaciones Web, en Almería. También cursé un Bootcamp de Desarrollo Web en Madrid, impartido por la Escuela de Organización Industrial, donde aprendí distintos lenguajes del front-end. A día de hoy, estoy cursando un doble Master de Diseño Grafico y Marketing Digital en CEI Escuela de Diseño (Madrid).
 
 Despues de terminar mis estudios como desarrollador web, decidí adentrarme en una nueva aventura, emigrando dirección Reino Unido, con el objetivo de perfeccionar el idioma y vivir una enriquecedora experiencia, conociendo y conviviendo con una cultura totalmente diferente. 
 
